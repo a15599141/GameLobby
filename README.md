@@ -1,1 +1,1 @@
-# Game Lobby for developing testing tool
+# Game Lobby with built-in testing tool
